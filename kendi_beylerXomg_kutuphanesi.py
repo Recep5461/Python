@@ -42,6 +42,7 @@ while True: # while döngüsü başlatılır
 
 
 
+# yorumsuz
 
 import beylerXomg as bx 
 import random
@@ -76,4 +77,5 @@ while True:
 
     elif sayı_al > random_sayı:
         bx.oynat.kategori.milyoner.sesler.yanlıs_1()
+
         print("YANLIŞ - sayıyı küçült!")
